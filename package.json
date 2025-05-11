@@ -1,0 +1,14 @@
+{
+  "name": "camera-app",
+  "version": "1.0.0",
+  "description": "Aplikasi untuk mengakses kamera, mikrofon, dan lokasi, dan mengirim data ke Telegram",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Nama Anda",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^25.0.0"
+  }
+}
